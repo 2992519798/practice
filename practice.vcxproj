@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="new和delete关键字用法.cpp" />
+    <ClCompile Include="func_quote.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func_quote.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

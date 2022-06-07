@@ -18,5 +18,13 @@
     <ClCompile Include="new和delete关键字用法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="func_quote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func_quote.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
